@@ -36,6 +36,23 @@ encoded in the associated qrcode
 
 ![qrcode](qrcode.png) 
 
+also, the last image reference, obtained via:
+
+```
+preston head | xargs -L1 preston cat | tail | grep hasVersion | tail -n1
+```
+
+should be:
+
+```
+<https://intermountainbiota.org/imglib/h_seinet/seinet/KHD/KHD00005/KHD00005851.JPG> <http://purl.org/pav/hasVersion> <hash://sha256/6a1c19a6e88090407a4a8535c642e1376beb16d9ef3e7141d3c091abcd769249> <urn:uuid:62a8ad95-e434-41b9-89c1-8ea3b53965c7> .
+```
+
+or associated image:
+
+![hash://sha256/6a1c19a6e88090407a4a8535c642e1376beb16d9ef3e7141d3c091abcd769249](./KHD00005851.JPG)
+
+
 # references
 
 Elliott et al. 2022 . List source URLs related to image hashes #196. <em>GitHub</em>. https://github.com/bio-guoda/preston/issues/196
