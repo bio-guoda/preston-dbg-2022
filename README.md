@@ -2,7 +2,8 @@
 preston archive with hashes of over 200k (i.e. 211250) images associated with Denver Botanical Gardens as published via their Darwin Core Archive:
 
 ```
-<https://intermountainbiota.org/portal/content/dwca/DBG-KHD_DwC-A.zip> <http://purl.org/pav/hasVersion> <hash://sha256/ce28d5b19f0daf73efd27d8c734e7e74737bc7075ca893591af0664b41a405c7>```
+<https://intermountainbiota.org/portal/content/dwca/DBG-KHD_DwC-A.zip> <http://purl.org/pav/hasVersion> <hash://sha256/ce28d5b19f0daf73efd27d8c734e7e74737bc7075ca893591af0664b41a405c7>
+```
 
 for associated metadata see [below](#metadata).
 
