@@ -64,9 +64,13 @@ or associated image:
 
 # references
 
-Elliott et al. 2022 . List source URLs related to image hashes #196. <em>GitHub</em>. https://github.com/bio-guoda/preston/issues/196
+Elliott MJ et al. 2022 . List source URLs related to image hashes #196. <em>GitHub</em>. https://github.com/bio-guoda/preston/issues/196
  
-Poelen et al. 2022. index images from Denver Botanical Garden #193. <em>GitHub</em>. https://github.com/bio-guoda/preston/issues/193
+Poelen JH et al. 2022. index images from Denver Botanical Garden #193. <em>GitHub</em>. https://github.com/bio-guoda/preston/issues/193
+
+MJ Elliott, JH Poelen, JAB Fortes (2020). Toward Reliable Biodiversity Dataset References. Ecological Informatics. https://doi.org/10.1016/j.ecoinf.2020.101132
+
+Elliott, M. J., Poelen, J. H., & Fortes, J. (2022, August 29). Signed Citations: Making Persistent and Verifiable Citations of Digital Scientific Content. https://doi.org/10.31222/osf.io/wycjn
 
 # metadata
 
