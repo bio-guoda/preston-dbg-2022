@@ -38,8 +38,9 @@ encoded in the associated qrcode
 
 # references
 
-Elliott et al. 2022 . List source URLs related to image hashes #196. <em>GitHub</em> https://github.com/bio-guoda/preston/issues/196 - 
-Poelen et al. 2022. index images from Denver Botanical Garden #193. <em>GitHub</em> https://github.com/bio-guoda/preston/issues/193
+Elliott et al. 2022 . List source URLs related to image hashes #196. <em>GitHub</em>. https://github.com/bio-guoda/preston/issues/196
+ 
+Poelen et al. 2022. index images from Denver Botanical Garden #193. <em>GitHub</em>. https://github.com/bio-guoda/preston/issues/193
 
 # metadata
 
