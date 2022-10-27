@@ -1,5 +1,5 @@
 # preston-dbg-2022
-preston archive with hashes of over 200k (i.e. 211250) images of Denver Botanical Gardens indexed over period 2022-10-18T21:33:53/2022-10-26T23:23:05 . These image were found via the following Darwin Core Archive and associated references:
+preston archive with hashes of over 200k (i.e. 211250) images of Denver Botanical Gardens indexed via a server hosted in in a commercial datacenter somehwere in Germany with 1Gb internet connection over an 8 day period 2022-10-18T21:33:53/2022-10-26T23:23:05 at a rate of about 0.3 images/s . The total volume of this archive, including images, darwin core archive, and metadata, is about 105GB. The image were found via the following Darwin Core Archive and associated references:
 
 ```
 <https://intermountainbiota.org/portal/content/dwca/DBG-KHD_DwC-A.zip> <http://purl.org/pav/hasVersion> <hash://sha256/ce28d5b19f0daf73efd27d8c734e7e74737bc7075ca893591af0664b41a405c7>
