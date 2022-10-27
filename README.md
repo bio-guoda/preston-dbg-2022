@@ -1,5 +1,5 @@
 # preston-dbg-2022
-preston archive with hashes of over 200k (i.e. 211250) images associated with Denver Botanical Gardens as published via their Darwin Core Archive:
+preston archive with hashes of over 200k (i.e. 211250) images of Denver Botanical Gardens indexed over period 2022-10-18T21:33:53/2022-10-26T23:23:05 . These image were found via the following Darwin Core Archive and associated references:
 
 ```
 <https://intermountainbiota.org/portal/content/dwca/DBG-KHD_DwC-A.zip> <http://purl.org/pav/hasVersion> <hash://sha256/ce28d5b19f0daf73efd27d8c734e7e74737bc7075ca893591af0664b41a405c7>
@@ -13,7 +13,7 @@ This archive includes [Preston](https://github.com/bio-guoda/preston) provenance
 
 The associated content is too bulky to be stored in a GitHub repo, and is available at their original source location, or (temporarily) via https://linker.bio .
 
-So, if you'd like to clone this repository including associated content, you can say:
+So, if you'd like to clone this repository including associated content, you can do so by running:
 
 ```
 preston verify --remote https://linker.bio
