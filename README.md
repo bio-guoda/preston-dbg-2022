@@ -1,4 +1,4 @@
-:warning: The tracked digital assets associated with this archive has been taken offline and the image corpus is no longer available via https://linker.bio at this point. This repository is kept around for an historical reference on how to track and package a image corpus from DwC-A. 
+:warning: The tracked digital assets associated with this archive has been taken offline and the image corpus is no longer available via https://linker.bio at this point. This repository is kept around for an historical reference on as an example on how to track, package, sign, and cite, an image corpus compile from their associated DwC-A records. 
 
 # preston-dbg-2022
 preston archive with hashes of over 200k (i.e. 211250) images (e.g., [KHD00005851](#sample-image)) of Denver Botanical Gardens indexed via a server hosted at a commercial datacenter somehwere in Germany with 1Gb internet connection over an 8 day period 2022-10-18T21:33:53/2022-10-26T23:23:05 at a rate of about 0.3 images/s . The total volume of this archive, including images, darwin core archive, and metadata, is about 105GB. The image were found via the following Darwin Core Archive and associated references:
